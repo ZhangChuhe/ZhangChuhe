@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 
 
 [![Fatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhangChuhe)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhangChuhe&hide=css&layout=compact&theme=onedark&langs_count=10)](https://github.com/shevonkuan/github-readme-stats)
